@@ -1,8 +1,10 @@
 .mynav {
     background-color: #030331;
+    width: auto;
 }
   .mybody {
     background-color: #030331;
+    width: auto;
     
   }
   .button2 {
@@ -195,6 +197,10 @@ footer{
 
 
 
-    
 
- 
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
