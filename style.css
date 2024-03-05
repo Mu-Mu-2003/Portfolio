@@ -1,12 +1,25 @@
 .mynav {
     background-color: #030331;
-    width: auto;
+    
 }
   .mybody {
     background-color: #030331;
-    width: auto;
     
   }
+  .col {
+    color: #FFC300;
+  }
+  .mynavbar {
+    position: fixed;
+    margin-left: 3%;
+    width: 60%;
+    
+  }
+.certificate {
+  margin-left: 2%;
+  margin-top: 1%;
+}
+  
   .pic {
     width: 80%;
     height: 90%;
